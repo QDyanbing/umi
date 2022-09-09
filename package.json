@@ -1,4 +1,5 @@
 {
+  "name": "project",
   "private": true,
   "author": "高艳兵 <yanbing.gao@aliyun.com>",
   "scripts": {
